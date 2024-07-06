@@ -5,4 +5,4 @@ The problem statement "vehicle cut-in detection" asks to detect or give warning 
 For the implementation of the file, datasets have been downloaded and uploaded on drive and then the code has been run on Google Colab using CNN.
 A new model has been trained using tensorflow and YOLO.
 The datasets are differnt for training, validation and testing purposes.
-the training dataset comprises of 23493 images 
+The training,validation and testing dataset comprises of 23493,25410 and 20171 images respectively.
